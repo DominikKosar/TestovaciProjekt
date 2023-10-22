@@ -12,6 +12,7 @@ namespace TestovaciProjekt
             int cislo1 = 0;
             int cislo2 = 1;
             int soucet = cislo1 + cislo2;
+            soucet += 5;
         }
     }
 }
