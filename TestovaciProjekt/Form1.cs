@@ -9,7 +9,9 @@ namespace TestovaciProjekt
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            int cislo1 = 0;
+            int cislo2 = 1;
+            int soucet = cislo1 + cislo2;
         }
     }
 }
